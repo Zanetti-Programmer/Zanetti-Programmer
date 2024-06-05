@@ -31,7 +31,6 @@
   <img align="center" alt="Zanetti-GitHub" height="30" width="40" src="https://icongr.am/octicons/mark-github.svg?size=128&color=ffffff">
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="guilherme-talhari-zanetti" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/guilherme-talhari-zanetti?trk=profile-badge">Guilherme Talhari Zanetti</a></div>
               
   
   ##
