@@ -10,6 +10,7 @@
 <!--Parte dos quadros-->
 <div>
   <a href="https://github.com/Zanetti-Programmer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zanetti-Programmer&show_icons=true&theme=transparent"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanetti-Programmer&layout=compact&theme=transparent"/>
 </div>
   
