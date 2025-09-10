@@ -1,4 +1,4 @@
-### Hi there, I'm Guilherme Zanetti👋
+### Hi there, I'm Guilherme Talhari Zanetti👋
 
 - 👨‍💻 I am studying higher education in Systems Analysis and Development at UNILAGO;
 - ⏳ Working as a MEI and available for freelance;
