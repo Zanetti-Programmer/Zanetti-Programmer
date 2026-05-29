@@ -33,17 +33,17 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Zanetti-Programmer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&icon_color=c9a227&text_color=ffffff&cache_seconds=86400" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanetti-Programmer&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9a227&text_color=ffffff&cache_seconds=86400" />
+  <a href="https://github.com/Zanetti-Programmer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zanetti-Programmer&theme=github_dark" height="170em"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zanetti-Programmer&theme=github_dark" height="170em"/>
+  </a>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Zanetti-Programmer&theme=dark&hide_border=true&background=0d1117&ring=c9a227&fire=c9a227&currStreakLabel=c9a227" />
 </div>
-
 ---
 
 ## 🤝 Contato
